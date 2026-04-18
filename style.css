@@ -144,6 +144,7 @@ nav button {
 
   .btn-red {
     font-size: 14px;
+    padding: 7px 22px;
   }
 }
 
@@ -190,7 +191,7 @@ nav button {
   }
 
   .secImg video {
-    width: 320gitpx;
+    width: 320px;
     right: 2px;
   }
 }
