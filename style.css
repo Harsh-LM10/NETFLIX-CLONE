@@ -137,9 +137,13 @@ nav button {
   color: white;
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:1000px){
   .main input {
     padding: 8px 40px 9px 9px;
+  }
+
+  .btn-red {
+    font-size: 14px;
   }
 }
 
@@ -180,13 +184,13 @@ nav button {
   width: 400px;
 }
 
-@media screen and (max-width:900px){
+@media screen and (max-width:1200px){
   .secImg img{
-    width: 414px;
+    width: 368px;
   }
 
   .secImg video {
-    width: 360px;
+    width: 320gitpx;
     right: 2px;
   }
 }
